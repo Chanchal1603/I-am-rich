@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application. It's having nothing much, it's just have a screen with a logo .
+You can try this by forking my repo and clone it and make the beautiful changes in your first flutter application. 
 
 A few resources to get you started if this is your first Flutter project:
 
